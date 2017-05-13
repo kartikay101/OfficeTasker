@@ -2,7 +2,7 @@
 Just for fun
 
 # SCILAB-PROJECT-SRM
-
+Works on Windows Only
 To use
 > Place the directory in C:
 > Rename Folder to OfficeTasker
